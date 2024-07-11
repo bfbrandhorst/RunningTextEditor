@@ -9,3 +9,7 @@ Welcome to Running Text Editor! This is a single page application that meets and
 [Running Text Editor Local Storage](./Assets/Screenshot_JATE_localstorage.png)
 
 If you'd like to give Running Text Editor a try follow the link below to see deployed on Render or for further information or other projects I have created visit my GitHub page.
+
+https://runningtexteditor.onrender.com
+
+https://github.com/bfbrandhorst
